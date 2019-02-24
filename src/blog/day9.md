@@ -1,5 +1,5 @@
 ---
-title: Dag 89(22 februari)
+title: Dag 9 (22 februari)
 date: 2019-02-22
 excerpt: BarCamp X
 type: post
